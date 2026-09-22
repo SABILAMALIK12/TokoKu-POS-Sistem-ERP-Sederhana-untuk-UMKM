@@ -1,4 +1,4 @@
-# TokoKy POS - Sistem ERP sederhana untuk UMKM
+# TokoKu POS - Sistem ERP sederhana untuk UMKM
 
 Backend web service untuk toko kelontong : manajemen produk & stok, transaksi penjualan otomatis, dan laporan analisis (produk terlaris, stok menipis)/ Dibangun dengan arsitektur modular dan mengikuti prinsip REST API.
 
